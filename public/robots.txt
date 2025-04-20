@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:/Admin/
+Allow:/blogslist
+Sitemap: https://darbastan.com/api/sitemap.xml
