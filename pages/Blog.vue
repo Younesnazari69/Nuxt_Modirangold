@@ -242,7 +242,7 @@ watch(Page, () => {
                   <li class="comment-item">
                     <div class="comment-body">
                       <div class="comment-img">
-                        <NuxtImg src="../public/img/post-5.jpg" />
+                        <NuxtImg src="../public/images/post-5.jpg" />
                       </div>
                       <div class="comment-text">
                         <h3>

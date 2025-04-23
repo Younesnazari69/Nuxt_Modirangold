@@ -40,7 +40,7 @@
                       />
                       <NuxtImg
                         v-else="item.imagePath == null"
-                        src="../public/img/Logo1.png"
+                        src="../public/images/Logo1.png"
                         :alt="`${item.pageTitle}`"
                         format="webp"
                       />

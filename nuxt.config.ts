@@ -300,17 +300,17 @@ tpj(document).ready(function() {
       pages.push({
         name: 'Blog',
         path: '/Blog/:pageId/:name',
-        file: '~/pages/blog.vue',
+        file: '~/pages/Blog.vue',
       });
       pages.push({
         name: 'articles',
         path: '/articles/:pageId/:name',
-        file: '~/pages/blog.vue',
+        file: '~/pages/Blog.vue',
       });
       pages.push({
         name: 'PageDetails',
         path: '/AdminPages/PageDetails/:pageId',
-        file: '~/pages/blog.vue',
+        file: '~/pages/Blog.vue',
       });
       pages.push({
         name: 'Tehran',

@@ -18,7 +18,7 @@
                     <img loading="lazy" v-if="item.imagePath != null" :src="`https://darbastan.storage.c2.liara.space${item.imagePath}`"  :alt="`${item.pageName}`">
                     <img
                         v-else="item.imagePath == null"
-                              src="/public/img/empty.jpg"
+                              src="/public/images/empty.jpg"
                               :alt="`${item.pageName}`"
                              />
                     <div class="service-overlay">
@@ -64,7 +64,7 @@
                     <img loading="lazy" v-if="item.imagePath != null" :src="`https://darbastan.storage.c2.liara.space${item.imagePath}`" :alt="`${item.companyName}`">
                     <img loading="lazy"
                         v-else="item.imagePath == null"
-                              src="/public/img/empty.jpg"
+                              src="/public/images/empty.jpg"
                               :alt="`${item.companyName}`"
                              />
                     <div class="service-overlay">
@@ -116,7 +116,7 @@
                     <img loading="lazy" v-if="item.picture != null" :src="`https://darbastan.storage.c2.liara.space${item.picture}`" :alt="`${item.pageName}`">
                     <img loading="lazy"
                         v-else="item.picture == null"
-                              src="/public/img/empty.jpg"
+                              src="/public/images/empty.jpg"
                               :alt="`${item.pageName}`"
                              />
                     <div class="service-overlay">

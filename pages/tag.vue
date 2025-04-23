@@ -18,7 +18,7 @@
                     <img v-if="item.imagePath != null" :src="`https://darbastan.storage.c2.liara.space${item.imagePath}`"  :alt="`${item.pageName}`">
                     <img
                         v-else="item.imagePath == null"
-                              src="/public/img/empty.jpg"
+                              src="/public/images/empty.jpg"
                               :alt="`${item.pageName}`"
                              />
                     <div class="service-overlay">

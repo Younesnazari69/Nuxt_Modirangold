@@ -30,7 +30,7 @@
                     />
                     <img
                       v-else="item.picture == null"
-                      src="/public/img/empty.jpg"
+                      src="/public/images/empty.jpg"
                       :alt="`${item.pageName}`"
                     />
                     <div class="service-overlay">

@@ -51,7 +51,7 @@ useHead({
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
             <div class="service-item">
               <div class="service-img">
-                <img src="/public/img/service-4.jpg" alt="Image" />
+                <img src="/public/images/service-4.jpg" alt="Image" />
                 <div class="service-overlay">
                     <router-link class="nav-item nav-link" :to="{ name: 'Registration' }"> <p>
                   قبل از ثبت اطلاعات حتماً پاسخ سوالات احتمالی شما در انتهای همین صفحه مطالعه کنید این به شما کمک می کند تا اطلاعات دقیق و درستی برای ما ارسال کنید.
@@ -69,7 +69,7 @@ useHead({
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
             <div class="service-item">
               <div class="service-img">
-                <img src="/public/img/service-5.jpg" alt="Image" />
+                <img src="/public/images/service-5.jpg" alt="Image" />
                 <div class="service-overlay">
                   <router-link
                     :to="{
@@ -110,7 +110,7 @@ useHead({
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
             <div class="service-item">
               <div class="service-img">
-                <img src="/public/img/service-6.jpg" alt="Image" />
+                <img src="/public/images/service-6.jpg" alt="Image" />
                 <div class="service-overlay">
                   <p>
                    بازارچه مدیران گلد جایی برای معرفی محصولاتی از قبیل لوله طلای ، ملزومات طلا ، کمربند ایمنی ، آچار طلای و سایر محصولات تولیدکنندگان این صنعت است که به زودی راه اندازی می شود
@@ -121,7 +121,7 @@ useHead({
                 <h3>بازارچه مدیران گلد</h3>
                 <a
                   class="btn"
-                  href="/public/img/service-6.jpg"
+                  href="/public/images/service-6.jpg"
                   data-lightbox="service"
                   >+</a
                 >

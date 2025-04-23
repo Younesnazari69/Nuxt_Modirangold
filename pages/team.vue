@@ -48,7 +48,7 @@ useHead({
                         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="team-item">
                                 <div class="team-img">
-                                    <NuxtImg src="../public/img/pakpour.jpg" alt="بنیانگذار و توسعه دهنده"/>
+                                    <NuxtImg src="../public/images/pakpour.jpg" alt="بنیانگذار و توسعه دهنده"/>
                                 </div>
                                 <div class="team-text">
                                     <h2>حمیدرضا پاکپور - Hamidreza Pakpour</h2>
@@ -65,7 +65,7 @@ useHead({
                         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                             <div class="team-item">
                                 <div class="team-img">
-                                    <NuxtImg src="../public/img/nazari.webp" alt="FrontEnd Developer"/>
+                                    <NuxtImg src="../public/images/service-4.jpgnazari.webp" alt="FrontEnd Developer"/>
                                 </div>
                                 <div class="team-text">
                                     <h2>یونس نظری ثمر</h2>
@@ -82,7 +82,7 @@ useHead({
                         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="team-item">
                                 <div class="team-img">
-                                    <NuxtImg src="../public/img/Logo1.png" alt="کارشناس خدمات طلا"/>
+                                    <NuxtImg src="../public/images/service-4.jpgLogo1.png" alt="کارشناس خدمات طلا"/>
                                 </div>
                                 <div class="team-text">
                                     <h2>خانساری</h2>
@@ -99,7 +99,7 @@ useHead({
                         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                             <div class="team-item">
                                 <div class="team-img">
-                                    <NuxtImg src="../public/img/Logo1.png" alt="کارشناس چهارپایه های طلای"/>
+                                    <NuxtImg src="../public/images/Logo1.png" alt="کارشناس چهارپایه های طلای"/>
                                 </div>
                                 <div class="team-text">
                                     <h2>برزگر</h2>

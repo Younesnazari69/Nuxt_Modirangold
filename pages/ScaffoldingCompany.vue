@@ -200,7 +200,7 @@ watch(User, () => {
               <div class="sidebar-widget wow fadeInUp">
                 <div class="image-widget">
                   <a href="#"
-                    ><img src="/public/img/blog-3.jpg" alt="Image"
+                    ><img src="/public/images/blog-3.jpg" alt="Image"
                   /></a>
                 </div>
               </div>

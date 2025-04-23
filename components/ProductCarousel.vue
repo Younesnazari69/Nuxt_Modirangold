@@ -11,9 +11,9 @@ const props = defineProps(["products", "numVisible","numScroll","responsiveOptio
             <div class="product-item animated-item">
                 <div class="item-inner">
                     <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                            <figure> <img :src="`/_nuxt/public/images/products/${slotProps.data.image1}`" alt="">
+                            <figure> <img :src="`../public/images/products/${slotProps.data.image1}`" alt="">
                                  <img class="hover-img"
-                                :src="`/_nuxt/public/images/products/${slotProps.data.image2}`" alt=""></figure>
+                                :src="`../public/images/products/${slotProps.data.image2}`" alt=""></figure>
                         </a>
                         <div class="pr-info-area animated animate6"><a href="quick_view.html" class="quick-view"><i
                                     class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html"

@@ -168,7 +168,7 @@
                   <div class="ad-card">
                     <router-link to="/MetalPlankScaffold" class="ad-link">
                       <NuxtImg
-                        src="../public/img/post-5.jpg"
+                        src="../public/images/post-5.jpg"
                         alt="تبلیغ 1"
                         class="img-fluid"
                         loading="lazy"
@@ -183,7 +183,7 @@
                   <div class="ad-card">
                     <router-link to="/MetalPlankScaffold" class="ad-link">
                       <NuxtImg
-                        src="../public/img/post-4.jpg"
+                        src="../public/images/post-4.jpg"
                         alt="تبلیغ 2"
                         class="img-fluid"
                         loading="lazy"
@@ -198,7 +198,7 @@
                   <div class="ad-card">
                     <router-link to="/mobilescaffoldingRequest" class="ad-link">
                       <NuxtImg
-                        src="../public/img/post-3.jpg"
+                        src="../public/images/post-3.jpg"
                         alt="تبلیغ 3"
                         class="img-fluid"
                         loading="lazy"
@@ -213,7 +213,7 @@
                   <div class="ad-card">
                     <router-link to="/QuickOrderScaffoldRental" class="ad-link">
                       <NuxtImg
-                        src="../public/img/post-2.jpg"
+                        src="../public/images/post-2.jpg"
                         alt="تبلیغ 4"
                         class="img-fluid"
                         loading="lazy"

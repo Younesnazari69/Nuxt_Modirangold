@@ -497,7 +497,7 @@ useHead({
                             />
                             <img
                               v-else="item.imagePath == null"
-                              src="/img/empty.jpg"
+                              src="/images/empty.jpg"
                               :alt="`${item.companyName}`"
                             />
                             <div class="service-overlay">
