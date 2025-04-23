@@ -33,9 +33,9 @@ const handleLogout = () => {
               <ul>
                 <li class="mt-root demo_custom_link_cms">
                   <div class="mt-root-item"><a href="index.html">
-                    <div class="title title_font"><span class="title-text">Home</span></div>
+                    <div class="title title_font"><span class="title-text">صفحه اصلی</span></div>
                     </a></div>
-                  <ul class="menu-items col-md-3 col-sm-4 col-xs-12" style="top: 59px; left: 15px;">
+                  <!-- <ul class="menu-items col-md-3 col-sm-4 col-xs-12" style="top: 59px; left: 15px;">
                     <li class="menu-item depth-1">
                       <div class="title"> <a href="../Version1/index.html"><span>Fruits Store</span></a></div>
                     </li>
@@ -54,11 +54,11 @@ const handleLogout = () => {
                     <li class="menu-item depth-1">
                       <div class="title"> <a href="../rtl-fruits-store/index.html"><span>RTL Fruits Store</span></a></div>
                     </li>                   
-                    </ul>
+                    </ul> -->
                 </li>
                 <li class="mt-root">
                   <div class="mt-root-item"><a href="#">
-                    <div class="title title_font"><span class="title-text">Page</span></div>
+                    <div class="title title_font"><span class="title-text">فروشگاه</span></div>
                     </a></div>
                   <ul class="menu-items col-xs-12" style="top: 59px; left: 93.0781px;">
                     <li class="menu-item depth-1 menucol-1-3 ">
@@ -176,17 +176,17 @@ const handleLogout = () => {
                 </li>
                 <li class="mt-root">
                   <div class="mt-root-item"><a href="shop_grid.html">
-                    <div class="title title_font"><span class="title-text">Contact Us</span> </div>
+                    <div class="title title_font"><span class="title-text">تماس با ما</span> </div>
                     </a></div>
                 </li>
                 <li class="mt-root">
                   <div class="mt-root-item"><a href="about_us.html">
-                    <div class="title title_font"><span class="title-text">about us</span></div>
+                    <div class="title title_font"><span class="title-text">درباره ما</span></div>
                     </a></div>
                 </li>
                 <li class="mt-root demo_custom_link_cms">
                   <div class="mt-root-item"><a href="blog.html">
-                    <div class="title title_font"><span class="title-text">Blog</span></div>
+                    <div class="title title_font"><span class="title-text">مقالات</span></div>
                     </a></div>
                   <ul class="menu-items col-md-3 col-sm-4 col-xs-12" style="top: 59px; left: 407.25px;">
                     <li class="menu-item depth-1">
@@ -205,7 +205,7 @@ const handleLogout = () => {
                 </li>
               </ul>
               <div class="call-us hidden-sm"> <i class="fa fa-phone"></i>
-                <div class="call-us-inner"> <span class="call-text">free call us</span> <span class="call-num">Call: + 0123 456 789</span> </div>
+                <div class="call-us-inner"> <span class="call-text">تماس با شرکت</span> <span class="call-num">09128665320</span> </div>
               </div>
             </div>
           </div>

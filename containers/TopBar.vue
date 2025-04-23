@@ -8,16 +8,16 @@
           <div class="row">
             <div class="col-lg-4 col-sm-4 hidden-xs"> 
               <!-- Default Welcome Message -->
-              <div class="welcome-msg ">Welcome to Genius online shopping </div>
+              <div class="welcome-msg ">به مرجع طلای ایران -مدیران گلد خوش آمدید </div>
             </div>
             
             <!-- top links -->
             <div class="headerlinkmenu col-lg-8 col-md-7 col-sm-8 col-xs-12">
               <div class="links">
-                <div class="myaccount"><a title="My Account" href="account_page.html"><i class="fa fa-user"></i><span class="hidden-xs">My Account</span></a></div>
-                <div class="wishlist"><a title="My Wishlist" href="wishlist.html"><i class="fa fa-heart"></i><span class="hidden-xs">Wishlist</span></a></div>
-                <div class="blog"><a title="Blog" href="blog.html"><i class="fa fa-rss"></i><span class="hidden-xs">Blog</span></a></div>
-                <div class="login"><a href="account_page.html"><i class="fa fa-unlock-alt"></i><span class="hidden-xs">Log In</span></a></div>
+                <div class="myaccount"><a title="My Account" href="account_page.html"><i class="fa fa-user"></i><span class="hidden-xs">حساب من</span></a></div>
+                <!-- <div class="wishlist"><a title="My Wishlist" href="wishlist.html"><i class="fa fa-heart"></i><span class="hidden-xs">Wishlist</span></a></div>
+                <div class="blog"><a title="Blog" href="blog.html"><i class="fa fa-rss"></i><span class="hidden-xs">Blog</span></a></div> -->
+                <div class="login"><a href="account_page.html"><i class="fa fa-unlock-alt"></i><span class="hidden-xs">ورود</span></a></div>
               </div>
               <div class="language-currency-wrapper">
                 <div class="inner-cl">
@@ -31,11 +31,11 @@
                     </ul>
                   </div>
                   <div class="block block-currency">
-                    <div class="item-cur"> <span>USD </span> <i class="fa fa-angle-down"></i></div>
+                    <div class="item-cur"> <span>دلار </span> <i class="fa fa-angle-down"></i></div>
                     <ul>
                       <li> <a href="#"><span class="cur_icon">€</span> EUR</a> </li>
                       <li> <a href="#"><span class="cur_icon">¥</span> JPY</a> </li>
-                      <li> <a class="selected" href="#"><span class="cur_icon">$</span> USD</a> </li>
+                      <li> <a class="selected" href="#"><span class="cur_icon">$</span> دلار</a> </li>
                     </ul>
                   </div>
                 </div>

@@ -27,11 +27,11 @@ const handleLogout = () => {
         <div class="col-md-3 col-sm-4 col-xs-3">
           <div class="mm-toggle-wrap">
             <div class="mm-toggle"> <i class="fa fa-align-justify"></i> </div>
-            <span class="mm-label hidden-xs">Categories</span> </div>
+            <span class="mm-label hidden-xs">دسته بندی</span> </div>
           <div class="mega-container visible-lg visible-md visible-sm">
             <div class="navleft-container">
               <div class="mega-menu-title">
-                <h3>shop by category</h3>
+                <h3>دسته بندی محصولات</h3>
               </div>
               <div class="mega-menu-category">
                 <ul class="nav">
@@ -212,9 +212,9 @@ const handleLogout = () => {
             <div id="search">
               <form>
                 <div class="input-group">
-                  <input type="text" class="form-control" placeholder="Search" name="search">
+                  <input type="text" class="form-control" placeholder="جستجو" name="search">
                   <select class="cate-dropdown hidden-xs hidden-sm" name="category_id">
-                    <option>All Categories</option>
+                    <option>دسته بندی ها</option>
                     <option>women</option>
                     <option>&nbsp;&nbsp;&nbsp;Chair </option>
                     <option>&nbsp;&nbsp;&nbsp;Decoration</option>
@@ -241,11 +241,11 @@ const handleLogout = () => {
             <div class="mini-cart">
               <div data-toggle="dropdown" data-hover="dropdown" class="basket dropdown-toggle"> <a href="#">
                 <div class="cart-icon"><i class="fa fa-shopping-basket"></i></div>
-                <div class="shoppingcart-inner hidden-xs hidden-sm"><span class="cart-title">Shopping Bag</span> <span class="cart-total">4 Item(s): $520.00</span></div>
+                <div class="shoppingcart-inner hidden-xs hidden-sm"><span class="cart-title">سبد خرید</span> <span class="cart-total">4عدد: 520ریال</span></div>
                 </a></div>
               <div>
                 <div class="top-cart-content">
-                  <div class="block-subtitle hidden-xs">Recently added item(s)</div>
+                  <div class="block-subtitle hidden-xs">محصولات در سبد خرید</div>
                   <ul id="cart-sidebar" class="mini-products-list">
                     <li class="item odd"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="../public/images/products/img07.jpg" alt="Lorem ipsum dolor" width="65"></a>
                       <div class="product-details"> <a href="#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
@@ -263,10 +263,10 @@ const handleLogout = () => {
                         <strong>2</strong> x <span class="price">$420.00</span> </div>
                     </li>
                   </ul>
-                  <div class="top-subtotal">Subtotal: <span class="price">$520.00</span></div>
+                  <div class="top-subtotal">جمع کل: <span class="price">ریال520</span></div>
                   <div class="actions">
-                    <button class="btn-checkout" type="button"><i class="fa fa-check"></i><span>Checkout</span></button>
-                    <button class="view-cart" type="button"><i class="fa fa-shopping-basket"></i> <span>View Cart</span></button>
+                    <button class="btn-checkout" type="button"><i class="fa fa-check"></i><span>پرداخت</span></button>
+                    <button class="view-cart" type="button"><i class="fa fa-shopping-basket"></i> <span>مشاهده سبد خرید</span></button>
                   </div>
                 </div>
               </div>
